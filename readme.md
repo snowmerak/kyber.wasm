@@ -6,7 +6,7 @@ kyber.wasm is a wasm of cloudflare circl kyber.
 
 download compiled files or clone this repo and compile.
 
-you must have to import `main.wasm` and `wasm_exec.js` to your app, like `index.html`.
+you must import `main.wasm` and `wasm_exec.js` to your app, like `index.html`.
 
 a process in web console.
 
